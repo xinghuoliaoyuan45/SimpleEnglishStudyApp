@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/body"
+        android:icon="@drawable/body"
+        android:title="body" />
+    <item
+        android:id="@+id/colors"
+        android:icon="@drawable/colors"
+        android:title="colors" />
+    <item
+        android:id="@+id/seasons"
+        android:icon="@drawable/seasons"
+        android:title="seasons" />
+    <item
+        android:id="@+id/vehicles"
+        android:icon="@drawable/vehicles"
+        android:title="vehicles" />
+    <item
+        android:id="@+id/fooddrink"
+        android:icon="@drawable/fooddrink"
+        android:title="fooddrink" />
+    <item
+        android:id="@+id/animals"
+        android:icon="@drawable/animals"
+        android:title="animals" />
+</menu>
