@@ -15,9 +15,9 @@
        <td align="center" valign="middle">
           <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/3.png">
       </td>
-      <td align="center" valign="middle">
-        <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/4.png">d
-      </td>
+       <td align="center" valign="middle">
+          <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/4.png">
+        </td>
     </tr>
   </tbody>
   </table>
