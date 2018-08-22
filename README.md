@@ -5,7 +5,7 @@
 
   <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/1.png">
     <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/2.png">
-      <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/3.png>
+      <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/3.png">
         <img width="300px" src="https://github.com/xinghuoliaoyuan45/SimpleEnglishStudyApp/blob/master/picture/4.png">
 <!--         
         
